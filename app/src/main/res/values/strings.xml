@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotionLayout</string>
+    <string name="description" />
+    <string name="swipe_me_up">Swipe me up</string>
+</resources>
